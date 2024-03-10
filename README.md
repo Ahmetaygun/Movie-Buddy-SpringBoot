@@ -12,7 +12,7 @@ Gereksinimler:
 1. **Kullanıcı Yönetimi:**
 - Kullanıcılar, ad, username, mail ,password gibi özelliklerle birlikte veritabanında
 saklanabilmelidir.
-- - Kullanıcılar yeni kayit olusturabilmeli ve kayitli kullanicilari listeleyebilmeli.
+- Kullanıcılar yeni kayit olusturabilmeli ve kayitli kullanicilari listeleyebilmeli.
 - Kayıtlı kullanıcılar, parolalarını güncelleyebilmeli ve hesaplarını silebilmelidir.
 - Kayıtlı kullanıcıların hepsi listelene bilmeli.
 2. **Film Yönetimi:**
