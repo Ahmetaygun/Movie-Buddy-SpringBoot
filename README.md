@@ -1,6 +1,7 @@
 SistersLab'ın bitirme projesi olarak geliştirdiğimiz proje, Spring Boot teknolojisiyle hazırlandı.Projenin detayları aşağıda verilmiştir.
 
 Proje Adı: Film Arkadaşı
+
 Amaç:
 Bu proje, Spring Boot ve temel CRUD (Create, Read, Update, Delete) işlemlerini anlamanıza
 yardımcı olacak bir film izleme uygulaması geliştirmemizi amaçlamıştır. Bu proje aynı
@@ -37,9 +38,15 @@ gerçekleştirilmelidir.
 - API'lar, JSON formatında veri döndürmektedir.
 
 Projenin veritabanı yönetimi için http://localhost:8087/h2-console/ adresini kullanabilirsiniz. Veritabanı yapılandırması aşağıdaki gibidir:
+
 spring.datasource.url=jdbc:h2:mem:dcbapp
+
 spring.datasource.username=sa
+
 spring.datasource.password=password
+
 spring.datasource.driver-class-name=org.h2.Driver
+
 server.port=8087
+
 Yukarıdaki bilgileri kullanarak işlemlerinizi gerçekleştirebilirsiniz.
