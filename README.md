@@ -1,4 +1,5 @@
 SistersLab'ın bitirme projesi olarak geliştirdiğimiz proje, Spring Boot teknolojisiyle hazırlandı.Projenin detayları aşağıda verilmiştir.
+
 Proje Adı: Film Arkadaşı
 Amaç:
 Bu proje, Spring Boot ve temel CRUD (Create, Read, Update, Delete) işlemlerini anlamanıza
