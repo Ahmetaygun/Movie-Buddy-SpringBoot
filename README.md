@@ -45,6 +45,12 @@ spring.datasource.username=sa
 
 spring.datasource.password=password
 
+spring.datasource.driver-class-name=org.h2.Driver
+
+server.port=8087
+
+Yukarıdaki bilgileri kullanarak işlemlerinizi gerçekleştirebilirsiniz.
+
 
 ///////////////
 
@@ -91,8 +97,3 @@ server.port=8087
 
 You can perform your operations using the above information.
 
-spring.datasource.driver-class-name=org.h2.Driver
-
-server.port=8087
-
-Yukarıdaki bilgileri kullanarak işlemlerinizi gerçekleştirebilirsiniz.
