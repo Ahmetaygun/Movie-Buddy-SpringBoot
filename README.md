@@ -47,6 +47,7 @@ spring.datasource.password=password
 
 
 ///////////////
+
 The project we developed as the final project of SistersLab is prepared with Spring Boot technology. The details of the project are provided below.
 
 Project Name: Movie Buddy
